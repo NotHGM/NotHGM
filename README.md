@@ -4,6 +4,7 @@
 **Who am I**
 
 I'm a 20 Year Old Music Artist, Gaming Server Hoster & Tech hobbyist from the UK.
+
 <sup> you can find all my links below </sup>
 
 - This is my main website that hosts stuff related to my gaming servers & my clothing [HGMArtist](https://hgmartist.net)
