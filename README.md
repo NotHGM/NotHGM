@@ -11,6 +11,5 @@ I'm a 20 Year Old Music Artist, Gaming Server Hoster & Tech hobbyist from the UK
 - [Spotify](https://open.spotify.com/artist/1ctu7NYmpvGRwUUqRWXt0E)
 - [Twitter](https://twitter.com/HGMPlays)
 - [Discord](https://discord.gg/HGMServers)
-- [EU Webfront](https://eu.hgmservers.com)
-- [US Webfront](https://us.hgmservers.com)
+- [COD Webfront](https://cod.hgmservers.com)
 - [Status Page](https://status.hgmservers.com)
