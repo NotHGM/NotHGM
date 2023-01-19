@@ -5,8 +5,9 @@
 
 I'm a 20 Year Old Music Artist, Gaming Server Hoster & Tech hobbyist from the UK.
 
-<sup> you can find all my links below </sup>
+you can find all my links below
 
+- [About Me](https://georgehgm.com)
 - [HGMArtist](https://hgmartist.net)
 - [Spotify](https://open.spotify.com/artist/1ctu7NYmpvGRwUUqRWXt0E)
 - [Twitter](https://twitter.com/HGMPlays)
