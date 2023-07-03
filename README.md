@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HGM</h1>
-<h3 align="center">I'm a 20 Year Old Music Artist, Gaming Server Hoster & Tech hobbyist from the UK.</h3>
+<h3 align="center">I'm a 21 Year Old Music Artist, Gaming Server Hoster & Tech hobbyist from the UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nothgm&label=Profile%20views&color=0e75b6&style=flat" alt="nothgm" /> </p>
 
