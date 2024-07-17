@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nothgm&color=blueviolet&style=flat-square)
 
-I'm a 21-year-old from the UK, balancing my time between being a music artist, hosting gaming servers, and indulging in various tech hobbies. While I'm not a professional developer yet, I'm eager to learn different programming languages and see what I can create with them. My journey is all about mixing my love for music and gaming with a growing interest in technology.
+I'm a 22-year-old from the UK, balancing my time between being a music artist, hosting gaming servers, and indulging in various tech hobbies. While I'm not a professional developer yet, I'm eager to learn different programming languages and see what I can create with them. My journey is all about mixing my love for music and gaming with a growing interest in technology.
 
 🌱 I'm currently learning:
 
