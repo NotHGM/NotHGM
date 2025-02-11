@@ -14,6 +14,9 @@ I'm a 22-year-old from the UK, balancing my time between being a music artist, h
 
 :bar_chart: GitHub stats
 
-![HGMs's github stats](https://github-readme-stats.vercel.app/api?username=nothgm&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+![NotHGM's Stats](https://github-readme-stats.vercel.app/api?username=NotHGM&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothgm&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+![NotHGM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHGM&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![NotHGM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotHGM&theme=vue-dark&hide_border=true)
+
