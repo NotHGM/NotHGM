@@ -86,5 +86,3 @@ I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running
   </a>
   <img src="https://img.shields.io/badge/Discord-HGM-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
-
----
