@@ -26,9 +26,12 @@ I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running
 
 ## 🚀 Things I've Built
 
-- 🧩 Systems and dashboards for managing game servers
-- 🕹️ Real-time stats & chat systems for multiplayer clients
-- 🛠️ Admin panels and analytics for server activity
+- 🚗 **UniPlateTracker:** A vehicle number plate tracking application built with Next.js.
+- 🔌 **IW4MAdmin Plugins:** Custom .NET plugins to extend game server administration capabilities.
+- 🏢 **Internal Tools:** Developed internal Next.js projects for HGMServers & TME to enhance operational workflows.
+- 🧩 Systems and dashboards for managing game servers.
+- 🕹️ Real-time stats & chat systems for multiplayer clients.
+- 🛠️ Admin panels and analytics for server activity.
 - 🎯 Tools for automating bans, linking accounts, and more...
 
 ---
