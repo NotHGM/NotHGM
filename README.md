@@ -1,19 +1,25 @@
-<h1 align="center">👋 Hey there, I'm HGM!</h1>
+<h1 align="center">Hey there, I'm HGM! </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nothgm&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-🎵 Music Artist • 🎮 Game Server Host • 💻 Tech Hobbyist  
+  <b>Music Artist | Game Server Host | Full-Stack Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HGMServers"><img src="https://img.shields.io/badge/HGMServers-Owner-blueviolet?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/F1Dash"><img src="https://img.shields.io/badge/F1Dash-Owner-red?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/The-Mystic-Enclave-Black-Protocol"><img src="https://img.shields.io/badge/TME-Developer-orange?style=flat-square&logo=github" /></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
-Name:        George HGM
+Name:         George HGM
 Location:    UK
 Roles:       Musician, Gamer, Builder
 Interests:   Web tech, Linux systems, Game hosting
@@ -24,68 +30,106 @@ I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running
 
 ---
 
-## 🚀 Things I've Built
+## Where I Work
 
-- 🚗 **UniPlateTracker:** A vehicle number plate tracking application built with Next.js.
-- 🔌 **IW4MAdmin Plugins:** Custom .NET plugins to extend game server administration capabilities.
-- 🏢 **Internal Tools:** Developed internal Next.js projects for HGMServers & TME to enhance operational workflows.
-- 🧩 Systems and dashboards for managing game servers.
-- 🕹️ Real-time stats & chat systems for multiplayer clients.
-- 🛠️ Admin panels and analytics for server activity.
-- 🎯 Tools for automating bans, linking accounts, and more...
+### [HGMServers](https://github.com/HGMServers) — Owner & Creator
+> Managing game servers for Call of Duty clients and building the infrastructure behind them.
+
+- Game server hosting & administration for CoD clients
+- Discord bots for community management
+- IW4MAdmin plugin development
+- Full-stack web development (frontend & backend)
+- Server infrastructure & systems management
+
+### [F1Dash](https://github.com/F1Dash) — Owner & Creator
+> Building the ultimate destination for Formula 1 fans at [f1dash.net](https://f1dash.net)
+
+- All-in-one platform for F1 statistics, data & content
+- Real-time race data and analytics
+- Modern Next.js frontend development
+
+### [The Mystic Enclave](https://github.com/The-Mystic-Enclave-Black-Protocol) — Full-Stack Developer
+> Bringing projects to life with polished frontends and robust backends.
+
+- Frontend & backend development
+- Launching and managing new projects
+- Backend server management & infrastructure
 
 ---
 
-## 🛠️ Tech & Tools
+## Personal Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**UniPlateTracker**](https://github.com/NotHGM/UniPlateTracker) | Vehicle number plate tracking application for UniFi Protect Systems | Next.js |
+| [**WarnPlugin**](https://github.com/NotHGM/WarnPlugin) | IW4MAdmin plugin for player warning system | C# / .NET |
+| [**ConnectedPlayersPlugin**](https://github.com/NotHGM/ConnectedPlayersPlugin) | IW4MAdmin plugin to display connected players | C# / .NET |
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000? style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Node. js-339933? style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624? style=for-the-badge&logo=linux&logoColor=000" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
 </p>
 
-> I love mixing my creative and technical sides — exploring what’s possible with modern tools.
+```text
+Primary Stack:       Next.js, React, TypeScript, Node.js
+Database:            PostgreSQL (my one and only)
+Environment:         Linux systems & terminal enthusiast
+Currently Learning:  JavaScript (deeper dive) & C#
+```
 
 ---
 
-## 🎧 Spotify – Now Playing
-
-> Here's what I'm vibing to right now:
+## Now Playing on Spotify
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11170930024&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=ffffff&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile. kittinanx.com/api/view.svg?uid=11170930024&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=ffffff&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotHGM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHGM&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NotHGM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel. app/api?username=NotHGM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com? user=NotHGM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel. app/api/top-langs/?username=NotHGM&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📬 Contact Me
+## Get in Touch
 
 <p align="center">
   <a href="mailto:george@hgmartist.net">
     <img src="https://img.shields.io/badge/Email-george@hgmartist.net-C71610?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
   </a>
   <img src="https://img.shields.io/badge/Discord-HGM-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>Always open to collaborating on interesting projects. </i>
 </p>
