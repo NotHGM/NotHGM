@@ -19,7 +19,7 @@
 ## About Me
 
 ```yaml
-Name:         George HGM
+Name:        George HGM
 Location:    UK
 Roles:       Musician, Gamer, Builder
 Interests:   Web tech, Linux systems, Game hosting
@@ -70,13 +70,13 @@ I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000? style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Node. js-339933? style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624? style=for-the-badge&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ Currently Learning:  JavaScript (deeper dive) & C#
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile. kittinanx.com/api/view.svg?uid=11170930024&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=ffffff&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11170930024&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=ffffff&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
@@ -108,15 +108,15 @@ Currently Learning:  JavaScript (deeper dive) & C#
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel. app/api?username=NotHGM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NotHGM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com? user=NotHGM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NotHGM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel. app/api/top-langs/?username=NotHGM&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHGM&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -131,5 +131,5 @@ Currently Learning:  JavaScript (deeper dive) & C#
 </p>
 
 <p align="center">
-  <i>Always open to collaborating on interesting projects. </i>
+  <i>Always open to collaborating on interesting projects.</i>
 </p>
