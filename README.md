@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://github.com/HGMServers"><img src="https://img.shields.io/badge/HGMServers-Owner-blueviolet?style=flat-square&logo=github" /></a>
   <a href="https://github.com/F1Dash"><img src="https://img.shields.io/badge/F1Dash-Owner-red?style=flat-square&logo=github" /></a>
-  <a href="https://github.com/The-Mystic-Enclave-Black-Protocol"><img src="https://img.shields.io/badge/TME-Developer-orange?style=flat-square&logo=github" /></a>
 </p>
 
 ---
@@ -47,13 +46,6 @@ I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running
 - All-in-one platform for F1 statistics, data & content
 - Real-time race data and analytics
 - Modern Next.js frontend development
-
-### [The Mystic Enclave](https://github.com/The-Mystic-Enclave-Black-Protocol) — Full-Stack Developer
-> Bringing projects to life with polished frontends and robust backends.
-
-- Frontend & backend development
-- Launching and managing new projects
-- Backend server management & infrastructure
 
 ---
 
