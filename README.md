@@ -47,6 +47,15 @@ I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running
 - Real-time race data and analytics
 - Modern Next.js frontend development
 
+### [gameserve.rs](https://gameserve.rs) — Owner & Creator
+> A modern game server browser for Call of Duty clients at [gameserve. rs](https://gameserve.rs)
+
+- Multi-platform support:  IW4x, Plutonium, AlterWare, Aurora, Horizon, CoD4x & cod.pm
+- 20+ supported games including COD1-4, MW2/3, WaW, BO1-3, Ghosts, AW, IW, MWR & H2M
+- Real-time server statistics with historical graphs and trend analysis
+- Public API for developers ([Documentation](https://gameserve.rs/docs))
+- Built with Next.js 15, React 19, TypeScript & PostgreSQL
+
 ---
 
 ## Personal Projects
