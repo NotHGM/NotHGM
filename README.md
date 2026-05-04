@@ -31,7 +31,7 @@ I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running
 
 ## Where I Work
 
-### [HGMServers](https://github.com/HGMServers) — Owner & Creator
+### [HGMServers](https://hgmserve.rs) — Owner & Creator
 > Managing game servers for Call of Duty clients and building the infrastructure behind them.
 
 - Game server hosting & administration for CoD clients
