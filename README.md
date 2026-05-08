@@ -25,7 +25,7 @@ Interests:   Web tech, Linux systems, Game hosting
 OS:          Linux (and loving the terminal)
 ```
 
-I'm a 23-year-old from the UK, blending music, gaming, and tech. I enjoy running game servers, creating useful tools, and exploring both frontend and backend technologies for fun.
+I'm a 24-year-old from the UK, blending music, gaming, and tech. I enjoy running game servers, creating useful tools, and exploring both frontend and backend technologies for fun.
 
 ---
 
