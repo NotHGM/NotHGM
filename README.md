@@ -56,6 +56,14 @@ I'm a 24-year-old from the UK, blending music, gaming, and tech. I enjoy running
 - Public API for developers ([Documentation](https://gameserve.rs/docs))
 - Built with Next.js 15, React 19, TypeScript & PostgreSQL
 
+### [Draftpin](https://draftpin.net) — Owner & Creator
+> Set a simulated GPS location on a USB-connected iPhone or iPad, from Windows or macOS, at [draftpin.net](https://draftpin.net)
+
+- Map-based placement with search, coordinate paste & switchable basemaps
+- Virtual joystick and WASD movement, speed profiles & GPX/GeoJSON route playback
+- Built on Apple's own developer location-simulation facility — no jailbreak, no anti-cheat circumvention
+- Electron, React & MapLibre with a Python sidecar over `pymobiledevice3`
+
 ---
 
 ## Personal Projects
