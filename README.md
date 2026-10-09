@@ -85,7 +85,7 @@ I've released music as **HGM** since 2017, on my own label, HGMEntertainment.
 
 - **Russian Hard Bass** (2018): 7M+ plays on Spotify, used in 10,000+ TikTok videos
 - 9M+ streams across Spotify, Apple Music, Amazon Music, YouTube Music and Deezer
-- New single **Lose Your Mind** out **9 October 2026**: [pre-save](https://loud.hgm.gg)
+- **Lose Your Mind**, my new single, is **out now** (9 October 2026): [Spotify](https://open.spotify.com/album/45vVvMPhT80BNUEQoJaR05) · [every other store](https://share.amuse.io/track/hgm-lose-your-mind)
 
 <p align="center">
   <a href="https://open.spotify.com/artist/1ctu7NYmpvGRwUUqRWXt0E"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
